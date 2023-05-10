@@ -1,10 +1,12 @@
 # Growth-of-World-Population-and-Prediction
+
 In this project, we took into consideration multiple factors that influences population growth either positively or negative, factors such as mortality rates, fertility rates, migration patterns, natural chances and GDP.
 These factors were carefully analyzed and virtualized to have a clear view on the level positive or negative impact they have on population dynamic and projections to provide a holistic understanding of global population trends
 
 
 
 Data Dictionary:
+
 Mortality: Rate at which people die represented in numerical value
 Fertility rate: The rate at which people put to birth represented in numerical values.
 Natural changes: Birth minus Death represented in numerical values.
@@ -15,6 +17,7 @@ SDG Regions(Sustainable Devleopment Goals): Sub-Saharan Africa, Northern Africa 
 
 
 Problem Statement:
+
 How will the global demographics change in the next decades?
 What is the influence of Migration on Population?
 What is the mortality rates of the population?
