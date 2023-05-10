@@ -8,5 +8,4 @@ Natural changes: Birth minus Death represented in numerical values.
 Year: year the data was gotten, year of projection which is from 1950 to 2100 
 Region: Region in the world, and the data set has 6, Africa, North America, Asian, Europe, Oceania and the South America
 SDG Regions(Sustainable Devleopment Goals): Sub-Saharan Africa, Northern Africa and Western Asia, Central and Southern Asia, Eastern and South Eastern Asia, Latin America and Caribbean, Oceania, Australia/New Zealand, Europe and Northern America.
-![image](https://github.com/TrAnurag/Growth-of-World-Population-and-Prediction/assets/122662214/9c24e720-1435-41ca-83ad-57db7f9a2dd1)
-Problem Statements![image](https://github.com/TrAnurag/Growth-of-World-Population-and-Prediction/assets/122662214/e8e41d5e-a0c1-4a03-8024-f3cb72fee1da)
+
