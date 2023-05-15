@@ -1,5 +1,4 @@
-# Growth-of-World-Population-and-Prediction 
-Data Visualization with Power BI
+# Growth-of-World-Population-and-Prediction Prediction Prediction Data Visualization with Power BI# 
 In this project, we took into consideration multiple factors that influences population growth either positively or negative, factors such as mortality rates, fertility rates, migration patterns, natural chances and GDP.
 These factors were carefully analyzed and virtualized to have a clear view on the level positive or negative impact they have on population dynamic and projections to provide a holistic understanding of global population trends
 
